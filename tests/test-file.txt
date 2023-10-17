@@ -1,0 +1,4 @@
+APP_KEY={{ dev/server:APP_KEY}}
+APP_NONKEY={{dev/server:APP_NON_KEY }}
+DONT_CHANGE=NOT_A_KEY
+
